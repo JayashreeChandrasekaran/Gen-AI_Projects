@@ -2,6 +2,7 @@
 
  A Python Application that utilizes Streamlit to create a user-friendly interface for uploading PDF Documents.      
  The application reads the text from the uploaded PDF files, making it easier for users to interact with the content.
+ This uses Embedded System(Open AI) to train this ChatBot.
  This ChatBot will process and respond to queries based on document content.
 
 **#Code Structure**
